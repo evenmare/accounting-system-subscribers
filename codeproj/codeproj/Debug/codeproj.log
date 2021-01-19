@@ -1,0 +1,8 @@
+﻿  mainForm.cpp
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(37,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(108,27): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(118,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(665,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(712,26): warning C4101: e: неиспользованная локальная переменная
+  dateForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  codeproj.vcxproj -> C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\Debug\codeproj.exe

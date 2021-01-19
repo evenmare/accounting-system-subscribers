@@ -1,0 +1,15 @@
+﻿  dateForm.cpp
+  mainForm.cpp
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(36,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(90,30): warning C4129: O: неизвестная escape-последовательность
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(90,30): warning C4129: D: неизвестная escape-последовательность
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(90,30): warning C4129: :
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(107,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(672,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\mainForm.cpp(700,26): warning C4101: e: неиспользованная локальная переменная
+  InputForm.cpp
+  searchForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  dateForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  codeproj.vcxproj -> C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\x64\Release\codeproj.exe

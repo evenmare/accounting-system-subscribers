@@ -1,0 +1,69 @@
+  codeproj.dateForm.resources - Embedded, ContainedInManifestFile, 
+  codeproj.InputForm.resources - Embedded, ContainedInManifestFile, 
+  codeproj.mainForm.resources - Embedded, ContainedInManifestFile, 
+  codeproj.searchForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly codeproj, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class codeproj.dateForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String input_dateFrom : Public
+    System.String input_dateTo : Public
+    Boolean success : Public
+  Methods:
+    SuccessButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    dateForm_Closed(Object, FormClosedEventArgs): PrivateScope, Public, HideBySig
+Class codeproj.mainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String connectionString : Public
+    System.String fileName : Public
+    System.String directory : Public
+    System.Data.OleDb.OleDbConnection dbConnection : Public
+  Methods:
+    UpdateBase(String): PrivateScope, Public, HideBySig
+    OutputPublisherBase(OleDbDataReader): PrivateScope, Public, HideBySig
+    OutputBase(OleDbDataReader): PrivateScope, Public, HideBySig
+    checkString(String): PrivateScope, Public, HideBySig
+Class codeproj.searchForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String input_surname : Public
+    System.String input_name : Public
+    System.String input_date : Public
+    Boolean success : Public
+Class codeproj.InputForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String input_surname : Public
+    System.String input_name : Public
+    System.String input_date : Public
+    System.String input_publisher : Public
+    Boolean success : Public
+  Methods:
+    nameBox_start(String): PrivateScope, Public, HideBySig
+    surnameBox_start(String): PrivateScope, Public, HideBySig
+    dateBox_start(String): PrivateScope, Public, HideBySig
+    publisherBox_start(String[]): PrivateScope, Public, HideBySig
+    publisherBox_startValue(String): PrivateScope, Public, HideBySig
+    label1_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    label2_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    label3_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    label4_Click(Object, EventArgs): PrivateScope, Public, HideBySig

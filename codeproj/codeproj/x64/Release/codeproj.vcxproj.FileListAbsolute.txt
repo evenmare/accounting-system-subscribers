@@ -1,0 +1,5 @@
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\x64\Release\codeproj.dateForm.resources
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\x64\Release\codeproj.InputForm.resources
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\x64\Release\codeproj.mainForm.resources
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\x64\Release\codeproj.searchForm.resources
+C:\Users\fuzzyfaLL\OneDrive\Desktop\Курсач_КП\codeproj_newestBACKUP\codeproj\x64\Release\codeproj.vcxproj.GenerateResource.cache
