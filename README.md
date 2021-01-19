@@ -2,6 +2,8 @@
 
 ## System Requirements:
 - OC: Windows 7 and higher
+- Database format: .mdb (Access)
+- Database structure: check subscribers_db_example.mdb
 
 ![alt text](https://github.com/fuzzyfall/Accounting-System-Subscribers/blob/main/GUI.png)
 
